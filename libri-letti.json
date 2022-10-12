@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "title": "Homo Deus",
+        "author": "Yuval Noah Harari",
+        "cover-color":"black",
+        "coverimg": "https://m.media-amazon.com/images/I/81hMjlT14ML.jpg"
+    },
+    {
+        "id":2,
+        "title": "Quando accade l'impossibile",
+        "author": "Stanislav Grof",
+        "cover-color":"white"
+    },
+    {
+        "id":3,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "cover-color":"white"
+    },
+    {
+        "id":4,
+        "title": "Il pensiero flessibile",
+        "author": "Leonard Mlodinow",
+        "cover-color":"yellow"
+    },
+    {
+        "id":5,
+        "title": "Siddharta",
+        "author": "Hermann Hesse",
+        "cover-color":"light blue"
+    },
+    {
+        "id":6,
+        "title": "The subtle art of not giving a fuck",
+        "author": "Mark Manson",
+        "cover-color":"white"
+    },
+    {
+        "id":7,
+        "title": "Bioenergetica",
+        "author": "Alexander Lowen",
+        "cover-color":"red"
+    },
+    {
+        "id":8,
+        "title": "1984",
+        "author": "George Orwell",
+        "cover-color":"black"
+    },
+    {
+        "id":9,
+        "title": "La misura del mondo",
+        "author": "Daniel Kehlmann",
+        "cover-color":"beige"
+    },
+    {
+        "id":10,
+        "title": "Utopia",
+        "author": "Thomas More",
+        "cover-color":"green"
+    }
+]
